@@ -1,0 +1,15 @@
+C:\Users\ШадикьянР\source\repos\Painting\Painting\bin\Debug\Painting.exe.config
+C:\Users\ШадикьянР\source\repos\Painting\Painting\bin\Debug\Painting.exe
+C:\Users\ШадикьянР\source\repos\Painting\Painting\bin\Debug\Painting.pdb
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\Painting.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\MainWindow.g.cs
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\App.g.cs
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\Painting_MarkupCompile.cache
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\Painting_MarkupCompile.lref
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\MainWindow.baml
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\Painting.g.resources
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\Painting.Properties.Resources.resources
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\Painting.csproj.GenerateResource.cache
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\Painting.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\Painting.exe
+C:\Users\ШадикьянР\source\repos\Painting\Painting\obj\Debug\Painting.pdb
